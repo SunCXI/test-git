@@ -1,2 +1,2 @@
 console.log('testjs');
-123rdfsd
+console.log("测试");
